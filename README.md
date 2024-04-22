@@ -1,0 +1,2 @@
+# sikousite
+mysite for Django
